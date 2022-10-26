@@ -1,0 +1,22 @@
+The (in)official DDEngine!
+
+Almost there!
+You just need to set up a few things and you are ready to go!
+
+First, install the G++ compile.
+You can find this on the official GNU webpage.
+
+Then, install SDL2 and make sure that g++ knows where it is (you can copy and adjust the make file for the library includes).
+
+The next and last step is optional but recommended:
+
+    Install make.
+
+That's it.
+
+Write your code and use make with the Makefile or just your g++ compiler and enjoy!
+
+(No warranty on anything functioning whatsoever except Ubuntu 22.04 which is mildly tested and was used to create this.)
+
+Happy hacking!
+;)
