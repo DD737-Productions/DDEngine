@@ -2,7 +2,7 @@
 
 #define RENDER_COMPONENT_HPP
 
-#include "../DDEngine.hpp"
+#include "../DDEngineDefinition.hpp"
 
 namespace DDEngine
 {
